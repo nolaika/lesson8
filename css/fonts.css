@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/poppins/bold/Poppins-Bold.eot');
+    src: url('../fonts/poppins/bold/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/poppins/bold/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/poppins/bold/Poppins-Bold.woff') format('woff'),
+        url('../fonts/poppins/bold/Poppins-Bold.ttf') format('truetype'),
+        url('../fonts/poppins/bold/Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
